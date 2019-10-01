@@ -1,3 +1,19 @@
 .profile-image {
     border-radius: 80px;
 }
+
+#openButton {
+    left: 70px;
+    bottom: 34px;
+    position: relative;
+}
+
+
+.teamButtons button {
+    background-color: #4682B4;
+    border: 1px solid black;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+  }
