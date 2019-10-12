@@ -8,6 +8,9 @@
     position: relative;
 }
 
+.teamButtons {
+    padding-bottom: 50px;
+}
 
 .teamButtons button {
     background-color: #4682B4;
