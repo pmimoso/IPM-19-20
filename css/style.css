@@ -3,9 +3,14 @@
 }
 
 #openButton {
+    display: flex;
     left: 70px;
     bottom: 34px;
     position: relative;
+}
+
+.received-btn {
+   margin-left: 2%;
 }
 
 .teamButtons {
